@@ -1,6 +1,0 @@
-﻿
-function modalLol() {
-
-	alert('lol!');
-
-}
