@@ -4,7 +4,8 @@
   "description": "Simple File Server over HTTP",
   "main": "index.js",
   "dependencies": {
-    "formidable": "^1.2.1"
+    "formidable": "^1.2.1",
+	"express":"^4.17.0"
   },
   "devDependencies": {},
   "scripts": {
