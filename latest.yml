@@ -1,9 +1,9 @@
-version: 1.0.26
+version: 1.0.27
 files:
-  - url: center-mgmt Setup 1.0.26.exe
-    sha512: 40rSSRl1uFQjcFyPe95QUkTBkM4wFgcwzxo1DMZWJQMud9lN0WUuV0SI+QRa2Czcp1crfMkqVmkVMLAQ4g0X7w==
+  - url: center-mgmt Setup 1.0.27.exe
+    sha512: 9S+qF1zR8WQwWBZpUkF86to/BVyQR5osWurNw7ZGaRaAyekQixgV6+FxwMY28cQPlXlrEmuk89ORu53731+zzw==
     size: 174568091
     isAdminRightsRequired: true
-path: center-mgmt Setup 1.0.26.exe
-sha512: 40rSSRl1uFQjcFyPe95QUkTBkM4wFgcwzxo1DMZWJQMud9lN0WUuV0SI+QRa2Czcp1crfMkqVmkVMLAQ4g0X7w==
-releaseDate: '2020-08-02T10:36:56.015Z'
+path: center-mgmt Setup 1.0.27.exe
+sha512: 9S+qF1zR8WQwWBZpUkF86to/BVyQR5osWurNw7ZGaRaAyekQixgV6+FxwMY28cQPlXlrEmuk89ORu53731+zzw==
+releaseDate: '2020-08-03T13:59:01.347Z'
